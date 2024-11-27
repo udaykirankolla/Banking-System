@@ -43,8 +43,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Push to the branch (git push origin feature/new-feature)
 5. Create a pull request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Thanks to Java for the programming language.
